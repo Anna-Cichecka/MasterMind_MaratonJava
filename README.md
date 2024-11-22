@@ -1,1 +1,1 @@
-It is first project in my portfolio.
+It is a first project in my portfolio.
